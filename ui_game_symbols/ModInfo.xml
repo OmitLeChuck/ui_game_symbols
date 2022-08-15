@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="ui_game_symbols" />
+		<Description value="ui_game_symbols" />
+		<Author value="dwarfmaster" />
+		<Version value="0.1" comp="A21"/>
+		<Website value="http://der-heimat-hafen.de" />
+	</ModInfo>
+</xml>
